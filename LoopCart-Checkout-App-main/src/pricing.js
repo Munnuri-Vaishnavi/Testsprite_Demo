@@ -1,5 +1,5 @@
 export const COUPON_RATES = {
-  SAVE20: 0.2,
+  SAVE20: 0.02,
 };
 
 export function calculateCart({ subtotal, couponCode }) {
