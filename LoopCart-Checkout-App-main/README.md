@@ -74,3 +74,6 @@ testsprite test failure get 4e2bd943-6977-4f34-8bd7-c6ba243a8adc --out .\.testsp
 
 
 testsprite test rerun 4e2bd943-6977-4f34-8bd7-c6ba243a8adc --wait --output json
+
+
+# testspritedemo-mipygq0gj-vaishnavi-a39f.vercel.app-vercel deployed url/
